@@ -151,7 +151,9 @@ RetailMind AI helps organizations:
 ##  Author
 
 **Asif Al Amin**
+
 Dept. of Computer Science & Engineering
+
 Bangladesh University of Business and Technology (BUBT)
 
 ---
